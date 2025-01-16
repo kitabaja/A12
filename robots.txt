@@ -1,0 +1,4 @@
+User -agent: *
+Disallow:
+
+Sitemap: https://cheesy.zsi.us.kg/sitemap.xml
